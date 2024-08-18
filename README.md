@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **python flutter**
 
-- 👨‍💻 All of my projects are available at [https://fmaleeha.netlify.app/](https://fmaleeha.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fmaleeha.netlify.app/](https://fmaleeha.netlify.app)
 
 - 💬 Ask me about **python,flutter,C,HTML,CSS**
 
