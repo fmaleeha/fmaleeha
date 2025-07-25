@@ -9,13 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Project 26**
+ 👩‍💻 About Me
+- 🎓 I’m currently pursuing **B.Sc. Computer Science (3rd Year)**  
+- 🏫 Studying at **University of Calicut**  
+- 💡 Passionate about programming, web development, and problem solving  
+- 🌱 Currently learning **Go (Golang)** and **web development frameworks** 
+- 💬 Ask me about **python,C,HTML,CSS,java,go**
 
-- 🌱 I’m currently learning **python flutter**
-
+ 💼 Project Experience
+  
+- 📁 **Project26** – A college project focused on building a **SmartBell system**
+- 🛠️ Role: Content Creator, Technical Support, etc.
+- 🤝 Contributed to multiple departments and supported the overall project development
 - 👨‍💻 All of my projects are available at [https://fmaleeha.netlify.app/](https://fmaleeha.netlify.app)
-
-- 💬 Ask me about **python,flutter,C,HTML,CSS**
 
 - 📫 How to reach me **maleehamehra@gmail.com**
 
