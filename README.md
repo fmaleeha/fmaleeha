@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fmaleeha&show_icons=true&locale=en" alt="fmaleeha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fmaleeha&" alt="fmaleeha" /></p>
+
+![snake gif](https://github.com/fmaleeha/fmaleeha/blob/output/github-snake-dark.svg)
+
