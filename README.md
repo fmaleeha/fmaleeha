@@ -46,13 +46,23 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmaleeha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fmaleeha" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fmaleeha&show_icons=true&locale=en&theme=tokyonight" alt="fmaleeha" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmaleeha&theme=tokyonight" alt="fmaleeha" />
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmaleeha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fmaleeha" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fmaleeha&show_icons=true&locale=en&theme=tokyonight" alt="fmaleeha" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmaleeha&theme=tokyonight" alt="fmaleeha" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
