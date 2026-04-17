@@ -1,82 +1,96 @@
-<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="banner" width="100%">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Maleeha</h1>
-<h3 align="center">A Passionate Developer | Computer Science Student</h3>
+```
+hello, world — I'm
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fmaleeha&label=Profile%20views&color=0e75b6&style=flat" alt="fmaleeha" />
-</p>
+# Fathima Maleeha
 
----
+**CS Graduate · Backend Developer · Systems Thinker**
 
-### 👩‍💻 About Me
-- 🎓 Pursuing **B.Sc. Computer Science (3rd Year)** at **University of Calicut**  
-- 💡 Passionate about **programming, problem solving, and web development**  
-- 🔧 Currently working on my **college project – NetGuard**, a network-focused web application  
-- 💬 Ask me about **HTML, CSS, JavaScript, C, Python, Java, Go, PHP, SQL**  
-- 📫 Reach me at **maleehamehra@gmail.com**
+B.Sc Computer Science, University of Calicut — Class of 2026
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-maleeha)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fm100._)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maleehamehra@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=fmaleeha&style=flat-square&color=6366f1)](https://github.com/fmaleeha)
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-</p>
+</div>
 
 ---
 
-### 💼 Project Experience
-- **Project26 – SmartBell System** 🎓  
-  Contributed as **Content Creator & Technical Support**, collaborating across multiple departments to support project development.
+## About
 
-- **NetGuard – Network Security Monitoring Tool** 🔐  
-  A web-based project focused on **monitoring network activity and improving security awareness**, designed as an academic and practical learning project.
+I'm a computer science graduate who cares about understanding how systems actually work — not just using the tools. Currently exploring **backend development**, **networking**, **system design**, and scalable architectures.
 
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/fathima-maleeha" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="30" width="40" />
-  </a>
-
-  <a href="https://www.instagram.com/fm100._" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         height="30" width="40" />
-  </a>
-</p>
+- 🎓 B.Sc Computer Science · University of Calicut · 2026
+- 🔧 Focused on backend systems, problem solving, and real-world application building
+- 🔍 Interests: networking, system design, scalable solutions
+- 💬 Ask me about Python, Go, system internals, or network fundamentals
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<table align="center">
+**Languages I work with:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Projects
+
+**Project26 — SmartBell System** `Academic · IoT`
+
+A smart bell system built collaboratively across multiple departments. Contributed as content creator and technical support throughout the development cycle.
+
+---
+
+**NetGuard — Network Security Monitoring Tool** `Web · Security`
+
+A web-based tool for monitoring network activity and improving security awareness. Designed as both an academic project and a practical learning exercise in network fundamentals.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmaleeha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fmaleeha" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fmaleeha&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fmaleeha&show_icons=true&locale=en&theme=tokyonight" alt="fmaleeha" />
+      <img src="https://github-readme-stats.vercel.app/api?username=fmaleeha&show_icons=true&locale=en&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmaleeha&theme=tokyonight" alt="fmaleeha" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fmaleeha&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
+</div>
+
 ---
 
-### 🐍 Contribution Graph
+## Contribution Graph
+
 ![snake gif](https://github.com/fmaleeha/fmaleeha/blob/output/github-snake-dark.svg)
+
+---
+
+<div align="center">
+  <sub>Open to opportunities · maleehamehra@gmail.com</sub>
+</div>
