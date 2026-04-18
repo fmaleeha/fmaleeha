@@ -4,7 +4,7 @@
 hello, world — I'm
 ```
 
-# Fathima Maleeha
+# Maleeha
 
 **CS Graduate · Backend Developer · Systems Thinker**
 
