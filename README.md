@@ -11,7 +11,7 @@ hello, world — I'm
 B.Sc Computer Science, University of Calicut — Class of 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-maleeha)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fm100._)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__mariigold._/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:maleehamehra@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=fmaleeha&style=flat-square&color=6366f1)](https://github.com/fmaleeha)
 
