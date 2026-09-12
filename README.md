@@ -6,9 +6,7 @@ hello, world — I'm
 
 # Fathima Maleeha
 
-**CS Graduate · Backend Developer · Systems Thinker**
-
-B.Sc Computer Science, University of Calicut — Class of 2026
+**CS Graduate · MSc Student · Backend Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-maleeha)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__mariigold._/)
@@ -21,9 +19,11 @@ B.Sc Computer Science, University of Calicut — Class of 2026
 
 ## About
 
-I'm a computer science graduate who cares about understanding how systems actually work — not just using the tools. Currently exploring **backend development**, **networking**, **system design**, and scalable architectures.
+I'm a computer science graduate now pursuing my M.Sc in Computer Science while actively job-hunting for software/tech roles. I care about understanding how systems actually work — not just using the tools. Currently exploring **backend development**, **networking**, **system design**, and scalable architectures.
 
 - 🎓 B.Sc Computer Science · University of Calicut · 2026
+- 🎓 Currently in my first year of M.Sc Computer Science · University of Calicut
+- 💼 Open to software/tech opportunities
 - 🔧 Focused on backend systems, problem solving, and real-world application building
 - 🔍 Interests: networking, system design, scalable solutions
 - 💬 Ask me about Python, Go, system internals, or network fundamentals
@@ -49,15 +49,15 @@ I'm a computer science graduate who cares about understanding how systems actual
 
 ## Projects
 
-**Project26 — SmartBell System** `Academic · IoT`
+**NetGuard — Network Security Monitoring Tool** `Python · CNN · Security`
 
-A smart bell system built collaboratively across multiple departments. Contributed as content creator and technical support throughout the development cycle.
+Real-time intrusion detection system built with a CNN trained on the NSL-KDD dataset, using Scapy + Npcap for live packet capture and automatic firewall-based IP blocking. HTML/CSS/Bootstrap/JS frontend with a MySQL backend. Built as part of a 4-person team.
 
 ---
 
-**NetGuard — Network Security Monitoring Tool** `Web · Security`
+**Project26 — Smart College Bell System** `Academic · IoT`
 
-A web-based tool for monitoring network activity and improving security awareness. Designed as both an academic project and a practical learning exercise in network fundamentals.
+A smart bell system built collaboratively across multiple departments (12-person team), with an Arduino/embedded C hardware side built by teammates. Contributed on the content and design side throughout the development cycle.
 
 ---
 
